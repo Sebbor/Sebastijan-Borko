@@ -9,8 +9,10 @@ SQL, Python, Data Engineering, SQL Development, MS SQL, Oracle, PostgreSQL, Tabl
 
 Link:</br>
 📫 How to reach me <a href="https://www.linkedin.com/in/sebastijan-borko-data-engineer-sql-developer-data-analyst/" target="_blank"> LinkedIn </a>
-
+</br>
+</br>
 Portfolio:</br>
+</br>
 Project 1</br>
 **Uncovering Business Trends with SQL: A Deep Dive into Wide World Importers Data**</br>
 Data Analytics, Data Visualisation</br>
