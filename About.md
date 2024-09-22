@@ -9,3 +9,14 @@ SQL, Python, Data Engineering, SQL Development, MS SQL, Oracle, PostgreSQL, Tabl
 
 Link:</br>
 📫 How to reach me <a href="https://www.linkedin.com/in/sebastijan-borko-data-engineer-sql-developer-data-analyst/" target="_blank"> LinkedIn </a>
+
+Portfolio:</br>
+Project 1</br>
+**Uncovering Business Trends with SQL: A Deep Dive into Wide World Importers Data**</br>
+Data Analytics, Data Visualisation</br>
+SQL, Tableu</br>
+This project focuses on performing advanced data analytics on the Wide World Importers database using SQL. By leveraging techniques such as CTEs, window functions (e.g., LAG, LEAD, PERCENT_RANK), and analytical functions (e.g., CUME_DIST, PERCENTILE_CONT), we extract deep insights into customer behavior, sales trends, and product performance. Key metrics such as customer churn prediction, revenue forecasting, and order pattern analysis are explored to inform strategic business decisions. Grouping and rollup operations are used to generate multi-level summaries of data, offering a comprehensive view of company performance. The project showcases how SQL can transform raw data into actionable insights to drive data-driven decisions in a business environment.</br>
+
+
+
+
